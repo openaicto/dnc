@@ -25,7 +25,7 @@
     "@chakra-ui/props-docs": "2.0.9",
     "@chakra-ui/react": "2.2.3",
     "@chakra-ui/skip-nav": "2.0.3",
-    "@chakra-ui/theme-tools": "2.0.4",
+    "@chakra-ui/theme-tools": "2.0.5",
     "@chakra-ui/utils": "2.0.3",
     "@codesandbox/sandpack-react": "^1.2.2",
     "@codesandbox/sandpack-themes": "^1.0.0",

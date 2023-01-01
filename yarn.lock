@@ -346,6 +346,13 @@
     compute-scroll-into-view "1.0.14"
     copy-to-clipboard "3.3.1"
 
+"@chakra-ui/icon@3.0.14":
+  version "3.0.14"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/icon/-/icon-3.0.14.tgz#aca6c998f2359ce937203f7463db299a6f8947ba"
+  integrity sha512-ksNDXSByoLFNec/7UANtiy/lHt2NO3/Xe5KIde3zh70yY1QcRQjO8TjvXgYwqLbR0D6OzMGggrZnJKafeZhjRQ==
+  dependencies:
+    "@chakra-ui/shared-utils" "2.0.4"
+
 "@chakra-ui/icon@3.0.3":
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/@chakra-ui/icon/-/icon-3.0.3.tgz#5620f01f0dbfcb16f2f051ab87192e6bf532e1c5"
@@ -353,13 +360,12 @@
   dependencies:
     "@chakra-ui/utils" "2.0.3"
 
-"@chakra-ui/icons@2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/icons/-/icons-2.0.3.tgz#b9e0b4a149d0aa81172ccb40bf4ca32e89ce42ad"
-  integrity sha512-CAUYILVvbT89bP+vHTpWMz+TnGGFkcN0nzyY/2VuWtDR0wjYf5SjGtp8BixroXLPap1CvDiRmTxmGq+FAU4LzA==
+"@chakra-ui/icons@2.0.15":
+  version "2.0.15"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/icons/-/icons-2.0.15.tgz#9613eae03e08dd9622723540cd3bf582e38b1fde"
+  integrity sha512-/Hsefej7DfRMg+Go+gf/UU4PHNMPmba41ogO1K3242aP9VSs/6/qXB3zrZHl21OX/rdrK408VqYEPInLmUwiHw==
   dependencies:
-    "@chakra-ui/icon" "3.0.3"
-    "@types/react" "^18.0.1"
+    "@chakra-ui/icon" "3.0.14"
 
 "@chakra-ui/image@2.0.4":
   version "2.0.4"
@@ -597,6 +603,11 @@
   dependencies:
     "@chakra-ui/form-control" "2.0.3"
     "@chakra-ui/utils" "2.0.3"
+
+"@chakra-ui/shared-utils@2.0.4":
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/shared-utils/-/shared-utils-2.0.4.tgz#8661f2b48dd93d04151b10a894a4290c9d9a080c"
+  integrity sha512-JGWr+BBj3PXGZQ2gxbKSD1wYjESbYsZjkCeE2nevyVk4rN3amV1wQzCnBAhsuJktMaZD6KC/lteo9ou9QUDzpA==
 
 "@chakra-ui/skeleton@2.0.8":
   version "2.0.8"
@@ -2280,7 +2291,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^18.0.1", "@types/react@^18.0.9":
+"@types/react@*", "@types/react@^18.0.9":
   version "18.0.14"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.14.tgz#e016616ffff51dba01b04945610fe3671fdbe06d"
   integrity sha512-x4gGuASSiWmo0xjDLpm5mPb52syZHJx02VKbqUKdLmKtAwIh63XClGsiTI1K6DO5q7ox4xAsQrU+Gl3+gGXF9Q==
